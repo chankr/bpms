@@ -1,0 +1,11 @@
+- Read @../../../README.md first for repo-wide comparison policy.
+- Read @../README.md for React Spectrum package goals and rules.
+- Implement a BPMS task management screen using React Spectrum.
+- Use React Spectrum Provider at the app root.
+- Respect Spectrum design principles over cross-package visual consistency.
+- Prefer React Spectrum components and official styling guidance over ad-hoc CSS.
+- Do not add CSS reset.
+- Do not imitate MUI, Fluent UI, or Angular Material layouts.
+- Prioritize accessibility, clear information hierarchy, and restrained customization.
+- Before implementing, explain the navigation model, page structure, and component rationale.
+- After implementing, run package-local lint, typecheck, and build where available.

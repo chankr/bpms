@@ -1,0 +1,11 @@
+- Read @../../../README.md first for repo-wide comparison policy.
+- Read @../README.md for Fluent UI package goals and rules.
+- Implement a BPMS task management screen using Fluent UI React v9.
+- Use FluentProvider at the app root.
+- Treat navigation as high-level wayfinding; make the current task category obvious.
+- Group actions logically using Fluent patterns such as nav, toolbar, field, and list guidance.
+- Prefer Fluent UI components and guidance over ad-hoc styling.
+- Do not imitate MUI, React Spectrum, or Angular Material layouts.
+- Prioritize clarity of navigation, action grouping, labels, helper text, and state communication.
+- Before implementing, explain the wayfinding model, action organization, and component rationale.
+- After implementing, run package-local lint, typecheck, and build where available.

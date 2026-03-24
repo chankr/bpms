@@ -1,3 +1,11 @@
+- Read @../../../README.md first for repo-wide comparison policy.
+- Read @../README.md for Angular Material package goals and rules.
+- Implement a BPMS task management screen using Angular Material.
+- Do not force parity with React packages.
+- Prefer Angular Material standard components and theming over ad-hoc styling.
+- Keep Angular responsibilities clear: structure, state, and view should remain maintainable.
+
+---
 
 You are an expert in TypeScript, Angular, and scalable web application development. You write functional, maintainable, performant, and accessible code following Angular and TypeScript best practices.
 

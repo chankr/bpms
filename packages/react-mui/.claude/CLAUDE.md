@@ -1,0 +1,11 @@
+- Read @../../../README.md first for repo-wide comparison policy.
+- Read @../README.md for MUI package goals and rules.
+- Implement a BPMS task management screen using MUI.
+- Use MUI theme as the primary source of visual rules.
+- Prefer Box, Container, Stack, and other MUI System primitives for layout.
+- Use sx in a disciplined, token-oriented way; do not accumulate ad-hoc one-off styling.
+- Do not force parity with React Spectrum, Fluent UI, or Angular Material layouts.
+- Prioritize list readability, action hierarchy, and filter clarity for task management.
+- Avoid global CSS overrides unless there is no theme/system-based alternative.
+- Before implementing, explain layout structure, theme strategy, and component rationale.
+- After implementing, run package-local lint, typecheck, and build where available.
