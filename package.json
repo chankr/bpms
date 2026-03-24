@@ -1,0 +1,13 @@
+{
+  "name": "bpms",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:react": "npm run dev -w react-demo",
+    "dev:react-fluentui": "npm run dev -w react-fluentui",
+    "dev:react-spectrum": "npm run dev -w react-spectrum",
+    "dev:angular": "npm run start -w angular-demo"
+  }
+}
