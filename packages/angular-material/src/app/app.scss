@@ -1,0 +1,29 @@
+.app-container {
+  height: 100vh;
+}
+
+.app-sidenav {
+  width: 220px;
+  border-right: 1px solid var(--mat-sys-outline-variant);
+}
+
+.sidenav-header {
+  padding: 16px;
+}
+
+.app-title {
+  font: var(--mat-sys-title-medium);
+  color: var(--mat-sys-on-surface);
+}
+
+.app-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}
+
+.table-container {
+  flex: 1;
+  overflow: hidden;
+}
